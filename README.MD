@@ -2,6 +2,11 @@
 
 ## pip install subprocreg
 
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/Tr_rFIrM4vM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Tr_rFIrM4vM)
+[https://www.youtube.com/watch?v=Tr_rFIrM4vM]()
+
 #### Tested against Windows 10 / Python 3.10 / Anaconda
 
 
